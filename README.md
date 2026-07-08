@@ -12,5 +12,7 @@ A 32-bit computer... In Minecraft!
 
 *Alpha 3*
 -Redesigned RAM to be more compact.
+
 -Cut down the amount of ROM for now due to performance issues
+
 -WIP decoder
