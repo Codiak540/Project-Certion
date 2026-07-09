@@ -19,3 +19,7 @@ A 32-bit computer... In Minecraft!
 -Cut down the amount of ROM for now due to performance issues
 
 -WIP decoder
+
+*Alpha 4*
+
+-More progress on decoder
